@@ -17,6 +17,7 @@
   </exercise>
   <exercise number="2">
     <scale>major</scale>
+    <octaves/>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -28,6 +29,7 @@
   </exercise>
   <exercise number="3">
     <scale>major</scale>
+    <octaves/>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -39,6 +41,7 @@
   </exercise>
   <exercise number="4">
     <scale>major</scale>
+    <octaves/>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -50,6 +53,7 @@
   </exercise>
   <exercise number="5">
     <scale>major</scale>
+    <octaves/>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -61,6 +65,7 @@
   </exercise>
   <exercise number="6">
     <scale>major</scale>
+    <octaves/>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -72,6 +77,7 @@
   </exercise>
   <exercise number="7">
     <scale>major</scale>
+    <octaves/>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -94,6 +100,7 @@
   </exercise>
   <exercise number="9">
     <scale>major</scale>
+    <octaves/>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
