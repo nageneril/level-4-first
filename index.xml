@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <level>
-  <readme>
-    <en>25111818c3a0526348df071e30645bb29cdbb83e9290be2acdb7e8370e15e3fa</en>
-    <pl>8004ec9e1982434009f45405ec42194554c9915d3b35ba5db222f4419fbf54d1</pl>
-    <ru>4059753cb1d8dc99b730d2c4c8456ed2336f9e092b7b072afca9958764bb1376</ru>
-  </readme>
-  <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
+  <readme/>
+  <license>f7c760ac5fcdc0bc720709cc624a150b3460c5aabe96bad7da3a164bbc73e0d7</license>
   <exercise number="1">
     <scale>major</scale>
+    <bpm>84</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -19,6 +16,7 @@
   </exercise>
   <exercise number="2">
     <scale>major</scale>
+    <bpm>90</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -30,6 +28,7 @@
   </exercise>
   <exercise number="3">
     <scale>major</scale>
+    <bpm>100</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -41,6 +40,7 @@
   </exercise>
   <exercise number="4">
     <scale>major</scale>
+    <bpm>120</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -52,6 +52,7 @@
   </exercise>
   <exercise number="5">
     <scale>major</scale>
+    <bpm/>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -63,6 +64,7 @@
   </exercise>
   <exercise number="6">
     <scale>major</scale>
+    <bpm/>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -74,6 +76,7 @@
   </exercise>
   <exercise number="7">
     <scale>major</scale>
+    <bpm/>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -85,6 +88,7 @@
   </exercise>
   <exercise number="8">
     <scale>major</scale>
+    <bpm/>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -96,6 +100,7 @@
   </exercise>
   <exercise number="9">
     <scale>major</scale>
+    <bpm/>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -107,6 +112,7 @@
   </exercise>
   <exercise number="10">
     <scale>major</scale>
+    <bpm>74</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
