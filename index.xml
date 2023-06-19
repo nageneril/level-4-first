@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <level>
-  <readme/>
-  <license>f7c760ac5fcdc0bc720709cc624a150b3460c5aabe96bad7da3a164bbc73e0d7</license>
+  <readme>
+    <pl>8004ec9e1982434009f45405ec42194554c9915d3b35ba5db222f4419fbf54d1</pl>
+    <en>25111818c3a0526348df071e30645bb29cdbb83e9290be2acdb7e8370e15e3fa</en>
+    <ru>4059753cb1d8dc99b730d2c4c8456ed2336f9e092b7b072afca9958764bb1376</ru>
+  </readme>
+  <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
     <scale>major</scale>
     <bpm>84</bpm>
