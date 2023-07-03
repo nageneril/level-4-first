@@ -9,18 +9,20 @@
   <exercise number="1">
     <scale>major</scale>
     <bpm>105</bpm>
+    <ppq>96</ppq>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
-      <note number="1" values="1,2,4,5,18" ticks="0" durationTicks="95" velocity="0.8"/>
-      <note number="2" values="1,2,4,5,18" ticks="96" durationTicks="95" velocity="0.8"/>
-      <note number="3" values="1,2,4,5,18" ticks="192" durationTicks="95" velocity="0.8"/>
-      <note number="4" values="1,2,4,5,18" ticks="288" durationTicks="95" velocity="0.8"/>
+      <note number="1" values="1,2,4,5,18" ticks="0" durationTicks="48" velocity="0.8031496062992126"/>
+      <note number="2" values="1,2,4,5,18" ticks="96" durationTicks="45" velocity="0.8031496062992126"/>
+      <note number="3" values="1,2,4,5,18" ticks="144" durationTicks="48" velocity="0.7559055118110236"/>
+      <note number="4" values="1,2,4,5,18" ticks="288" durationTicks="51" velocity="0.7559055118110236"/>
     </notes>
   </exercise>
   <exercise number="2">
     <scale>major</scale>
     <bpm>105</bpm>
+    <ppq>96</ppq>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -33,6 +35,7 @@
   <exercise number="3">
     <scale>major</scale>
     <bpm>100</bpm>
+    <ppq>96</ppq>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -45,6 +48,7 @@
   <exercise number="4">
     <scale>major</scale>
     <bpm>120</bpm>
+    <ppq>96</ppq>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -57,6 +61,7 @@
   <exercise number="5">
     <scale>major</scale>
     <bpm>100</bpm>
+    <ppq>96</ppq>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -69,6 +74,7 @@
   <exercise number="6">
     <scale>major</scale>
     <bpm>100</bpm>
+    <ppq>96</ppq>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -81,6 +87,7 @@
   <exercise number="7">
     <scale>major</scale>
     <bpm>100</bpm>
+    <ppq>96</ppq>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -93,6 +100,7 @@
   <exercise number="8">
     <scale>major</scale>
     <bpm>100</bpm>
+    <ppq>96</ppq>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -105,6 +113,7 @@
   <exercise number="9">
     <scale>major</scale>
     <bpm>100</bpm>
+    <ppq>96</ppq>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -117,6 +126,7 @@
   <exercise number="10">
     <scale>major</scale>
     <bpm>105</bpm>
+    <ppq>96</ppq>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
